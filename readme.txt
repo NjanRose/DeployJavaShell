@@ -1,4 +1,4 @@
 hello world
 shell is the new oil
 
-This is day 4
+Maven Project Pipeline(create in Jenkins): Test -> .war -> Deploy on Azure VM
